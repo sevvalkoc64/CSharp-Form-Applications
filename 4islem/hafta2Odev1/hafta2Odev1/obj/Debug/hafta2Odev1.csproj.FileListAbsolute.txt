@@ -1,0 +1,9 @@
+D:\CSprojects\hafta2Odev1\hafta2Odev1\bin\Debug\hafta2Odev1.exe.config
+D:\CSprojects\hafta2Odev1\hafta2Odev1\bin\Debug\hafta2Odev1.exe
+D:\CSprojects\hafta2Odev1\hafta2Odev1\bin\Debug\hafta2Odev1.pdb
+D:\CSprojects\hafta2Odev1\hafta2Odev1\obj\Debug\hafta2Odev1.csprojResolveAssemblyReference.cache
+D:\CSprojects\hafta2Odev1\hafta2Odev1\obj\Debug\hafta2Odev1.Form1.resources
+D:\CSprojects\hafta2Odev1\hafta2Odev1\obj\Debug\hafta2Odev1.Properties.Resources.resources
+D:\CSprojects\hafta2Odev1\hafta2Odev1\obj\Debug\hafta2Odev1.csproj.GenerateResource.Cache
+D:\CSprojects\hafta2Odev1\hafta2Odev1\obj\Debug\hafta2Odev1.exe
+D:\CSprojects\hafta2Odev1\hafta2Odev1\obj\Debug\hafta2Odev1.pdb
